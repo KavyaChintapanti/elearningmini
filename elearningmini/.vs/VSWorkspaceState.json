@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Admin",
+    "\\Admin\\adminInclude",
+    "\\image",
+    "\\image\\courseimg",
+    "\\lessonvid",
+    "\\mainInclude",
+    "\\Student",
+    "\\Student\\stuInclude",
+    "\\video",
+    "\\videos"
+  ],
+  "SelectedNode": "\\mainInclude\\header.php",
+  "PreviewInSolutionExplorer": false
+}
